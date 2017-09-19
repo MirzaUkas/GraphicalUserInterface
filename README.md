@@ -1,5 +1,5 @@
 # Graphical User Interface
-Pengerjaan Modul 5 GUI dan Lanjutan
+Screenshot Pengerjaan Modul 5 GUI dan Modul 5 Lanjutan
 
 # LATIHAN 1
 ![](https://github.com/MirzaUkas/GraphicalUserInterface/blob/master/Screenshots/1.PNG)
